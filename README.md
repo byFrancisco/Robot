@@ -1,2 +1,2 @@
-# Robot
-Robot with python
+# Potenciometro
+create with arduino
